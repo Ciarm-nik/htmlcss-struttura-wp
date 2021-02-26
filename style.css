@@ -55,15 +55,6 @@ main {
     border-right: 0;
 }
 
-.bottom_side {
-    width: 100%;
-    float: left;
-    height: 50px;
-    border: 5px solid blue;
-    border-left: 0;
-    border-right: 0;
-}
-
 .container {
     width: 800px;
     margin: auto;
@@ -74,7 +65,7 @@ footer {
     width: 800px;
     height: 50px;
     background-color: purple;
-    padding: 30px;
+    /* padding: 30px; */
     margin: auto;
 }
 
